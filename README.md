@@ -1,3 +1,8 @@
+# Weather app using react on client side
+Source: 
+video: https://www.youtube.com/watch?v=BABUMRn47iQ
+weather server API: https://graphql-weather-api.herokuapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
